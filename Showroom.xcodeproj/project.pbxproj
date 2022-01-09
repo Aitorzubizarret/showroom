@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4243B5C7278B719D00F283C6 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 4243B5C6278B719D00F283C6 /* README.md */; };
 		4280CD322786319400F5D8E5 /* ShowroomApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4280CD312786319400F5D8E5 /* ShowroomApp.swift */; };
 		4280CD342786319400F5D8E5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4280CD332786319400F5D8E5 /* ContentView.swift */; };
 		4280CD362786319400F5D8E5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4280CD352786319400F5D8E5 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4243B5C6278B719D00F283C6 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		4280CD2E2786319400F5D8E5 /* Showroom.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Showroom.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4280CD312786319400F5D8E5 /* ShowroomApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShowroomApp.swift; sourceTree = "<group>"; };
 		4280CD332786319400F5D8E5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -36,6 +38,7 @@
 		4280CD252786319400F5D8E5 = {
 			isa = PBXGroup;
 			children = (
+				4243B5C6278B719D00F283C6 /* README.md */,
 				4280CD302786319400F5D8E5 /* Showroom */,
 				4280CD2F2786319400F5D8E5 /* Products */,
 			);
@@ -126,6 +129,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4243B5C7278B719D00F283C6 /* README.md in Resources */,
 				4280CD392786319400F5D8E5 /* Preview Assets.xcassets in Resources */,
 				4280CD362786319400F5D8E5 /* Assets.xcassets in Resources */,
 			);
